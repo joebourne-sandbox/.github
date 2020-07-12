@@ -3,7 +3,7 @@
     "description": "Joe Organization CI workflow template.",
     "iconName": "example-icon",
     "categories": [
-        "Node"
+        "JavaScript"
     ],
     "filePatterns": [
         "package.json$",
