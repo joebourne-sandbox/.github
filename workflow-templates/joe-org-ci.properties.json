@@ -2,10 +2,4 @@
     "name": "Joe Organization Workflow",
     "description": "Joe Organization CI workflow template.",
     "iconName": "example-icon"
-    //"categories": [
-    //    "JavaScript"
-    //],
-    //"filePatterns": [
-    //    "package.json$"
-    //]
 }
